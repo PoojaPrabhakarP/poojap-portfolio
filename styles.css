@@ -156,13 +156,10 @@ p {
 }
 
 .notes-card li {
-  padding: 16px 0;
-  border-bottom: 1px solid var(--border);
+  padding: 6px 0;
+  border-bottom: none;
   color: var(--muted);
-}
-
-.notes-card li:last-child {
-  border-bottom: 0;
+  line-height: 1.8;
 }
 
 footer {
